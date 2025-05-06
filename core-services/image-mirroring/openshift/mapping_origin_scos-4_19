@@ -2,7 +2,6 @@ registry.ci.openshift.org/origin/scos-4.19:cloud-event-proxy quay.io/openshift/o
 registry.ci.openshift.org/origin/scos-4.19:etcd quay.io/openshift/origin-etcd:4.19 quay.io/openshift/origin-etcd:4.19.0
 registry.ci.openshift.org/origin/scos-4.19:installer-artifacts quay.io/openshift/origin-installer-artifacts:4.19 quay.io/openshift/origin-installer-artifacts:4.19.0
 registry.ci.openshift.org/origin/scos-4.19:installer-etcd-artifacts quay.io/openshift/origin-installer-etcd-artifacts:4.19 quay.io/openshift/origin-installer-etcd-artifacts:4.19.0
-registry.ci.openshift.org/origin/scos-4.19:installer-terraform-providers quay.io/openshift/origin-installer-terraform-providers:4.19 quay.io/openshift/origin-installer-terraform-providers:4.19.0
 registry.ci.openshift.org/origin/scos-4.19:ovirt-machine-controllers quay.io/openshift/origin-ovirt-machine-controllers:4.19 quay.io/openshift/origin-ovirt-machine-controllers:4.19.0
 registry.ci.openshift.org/origin/scos-4.19:stream-coreos quay.io/openshift/origin-stream-coreos:4.19 quay.io/openshift/origin-stream-coreos:4.19.0
 registry.ci.openshift.org/origin/scos-4.19:stream-coreos-extensions quay.io/openshift/origin-stream-coreos-extensions:4.19 quay.io/openshift/origin-stream-coreos-extensions:4.19.0
