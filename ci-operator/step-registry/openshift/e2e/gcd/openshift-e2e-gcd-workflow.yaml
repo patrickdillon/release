@@ -8,8 +8,9 @@ workflow:
     - ref: openshift-e2e-test
     post:
     - chain: gather-core-dump
-    - chain: ipi-gcp-post
+    - ref: gather-installer-boostrap-logs-in-bastion
     - ref: gcp-deprovision-bastionhost
+    - chain: ipi-gcp-post
     - ref: gcp-deprovision-vpc
   documentation: |-
     The OpenShift E2E GCD workflow executes the common end-to-end test
